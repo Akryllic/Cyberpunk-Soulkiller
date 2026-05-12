@@ -39,6 +39,7 @@ Before installing Cyberpunk-Soulkiller, please complete the following steps:
 .NET is a free, cross-platform, open-source developer platform for building many different types of applications. This is required for various mod tools to function properly.
 
 [.NET 8.0 SDK - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
 [.NET 9.0 SDK - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
 **Microsoft Visual C++ Redistributable**

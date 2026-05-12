@@ -1,6 +1,6 @@
 #### Cyberpunk: Soulkiller
 
-![](https://raw.githubusercontent.com/Akryllic/Cyberpunk-Soulkiller/main/Resources/banner.png)
+![](https://raw.githubusercontent.com/Akryllic/Cyberpunk-Soulkiller/main/Soulkiller.png)
 
 <p align="center">
   <a href="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/CHANGELOG.md">Changelogs</a> |

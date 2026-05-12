@@ -4,24 +4,24 @@
 
 <p align="center">
   <a href="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/CHANGELOG.md">Changelogs</a> |
-  <a href="https://www.nexusmods.com">Nexus</a> |
-  <a href="https://discord.gg">Discord</a>
+  <a href="[https://www.nexusmods.com](https://www.nexusmods.com/cyberpunk2077/mods/29614)">Nexus</a> |
+  <a href="https://discord.gg/GgkPMBMTrS">Discord</a>
 </p>
 
 #### Introduction
 
-Cyberpunk-Soulkiller is a cutting-edge modlist designed to push the boundaries of cyberpunk gameplay and visuals. Built around immersive storytelling, enhanced mechanics, and stunning graphics, this list transforms your experience into a gritty, futuristic adventure.
+Soulkiller is a Wabbajack mod list featuring survival-focused modern gameplay and enhanced immersion systems. Built with cutting-edge graphics in mind.
 
-If you're curious about the specific mods in the list, the full modlist can be viewed [here](#modlist).
+If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/cyberpunk-soulkiller-2).
 
 ### System Requirements
 
 **DISCLAIMERS:**
 - Cyberpunk-Soulkiller only supports Windows 10/11 operating systems.
-- HDD and external SSD installs are absolutely not supported. SSD installation is mandatory.
+- HDD and external SSD installs are absolutely not supported. A NVMe Gen 3 or Newer is mandatory for installation.
 - Any remote PC / desktop services or apps are not supported.
-- At least 16GB of RAM is recommended for optimal performance.
-- 8GB+ of GPU VRAM is strongly recommended for 1080p gameplay. Higher resolutions may require more.
+- At least 16GB of RAM is required for optimal performance.
+- 12GB+ of GPU VRAM is strongly recommended for 1080p gameplay. Higher resolutions require more.
 
 ## Installation
 
@@ -39,6 +39,7 @@ Before installing Cyberpunk-Soulkiller, please complete the following steps:
 .NET is a free, cross-platform, open-source developer platform for building many different types of applications. This is required for various mod tools to function properly.
 
 [.NET 8.0 SDK - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+[.NET 9.0 SDK - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 
 **Microsoft Visual C++ Redistributable**
 
@@ -58,7 +59,10 @@ If already installed there, reinstall to a different location such as `C:\Games`
 
 Remove or disable any 3rd party antiviruses such as `Webroot` or `Bitdefender`. These programs can cause issues with your installation due to how mod managers' Virtual File Staging works.
 
-Add the modlist folder to your antivirus exclusion list to prevent the game from having trouble loading scripts, which can lead to crashes.
+To prevent the game from having trouble loading scripts, please, do the following:
+Add the modlist folder to your antivirus exclusion list
+Add the game executable to your antivirus exclusion list
+Add the redmod executable to your antivirus exclusion list
 
 #### Pagefile Configuration
 
@@ -83,6 +87,8 @@ To set up your pagefile:
 13. Click **Apply**
 14. Click **OK**
 15. Restart your computer for the new pagefile to take effect
+    
+<img width="430" height="603" alt="image" src="https://github.com/user-attachments/assets/dec2c742-0e23-468f-95e4-aef88d951be8" />
 
 ---
 
@@ -97,13 +103,20 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 5. Click **Apply** in the bottom right corner
 6. You may exit the application
 
+<img width="1235" height="884" alt="image" src="https://github.com/user-attachments/assets/e6371ebe-2f73-41cd-bace-ae890dedf6c0" />
+
+
 ---
 
-### Credits
+### Credits and Thanks
 
-[**Your Contributors Here**] - Thank you for your amazing support and contributions.
+ItzIvy for helping with testing and compiling the mod list via Wabbajack
 
-[**Bethesda Game Studios**] - For the original game and tools that make modding possible.
+DigitalVixen for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077 
+
+Halgari and the Wabbajack Team for their amazing platform that allows me to create and host lists like these.
+
+[**CD Projekt Red**] - For the original game and tools that make modding possible.
 
 [**The Community**] - For the tools, resources, and collective knowledge that make projects like this possible.
 

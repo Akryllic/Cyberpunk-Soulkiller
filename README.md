@@ -22,6 +22,7 @@ If you're curious about the specific mods in the list, the full modlist can be v
 - Any remote PC / desktop services or apps are not supported.
 - At least 16GB of RAM is required for optimal performance.
 - 12GB+ of VRAM is strongly recommended for 1080p gameplay. Higher resolutions require more.
+- 150~ GB of available disk space; downloads folder can be deleted after installation.
 
 ## Installation
 
@@ -49,6 +50,12 @@ The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libra
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
 
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
+**RedMod**
+
+RedMod is a free modding utility for Cyberpunk 2077 that needs to downloaded for full mod functionality and loading
+
+[RedMod Steam Download](https://store.steampowered.com/app/2060310/Cyberpunk_2077_REDmod/)
 
 #### Storage and Installation
 

@@ -111,9 +111,9 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 
 ### Credits and Thanks
 
-ItzIvy for helping with testing and compiling the mod list via Wabbajack
+[**ItzIvy**](https://www.nexusmods.com/profile/ItzIvy?gameId=1704) for helping with testing and compiling the mod list via Wabbajack
 
-DigitalVixen for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077 
+[**DigitalVixen**](https://www.nexusmods.com/profile/DigitalVixen?gameId=3333) for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077 
 
 Halgari and the Wabbajack Team for their amazing platform that allows me to create and host lists like these.
 

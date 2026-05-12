@@ -1,4 +1,4 @@
-#### Cyberpunk-Soulkiller
+#### Cyberpunk: Soulkiller
 
 ![](https://raw.githubusercontent.com/Akryllic/Cyberpunk-Soulkiller/main/Resources/banner.png)
 
@@ -21,7 +21,7 @@ If you're curious about the specific mods in the list, the full modlist can be v
 - HDD and external SSD installs are absolutely not supported. A NVMe Gen 3 or Newer is mandatory for installation.
 - Any remote PC / desktop services or apps are not supported.
 - At least 16GB of RAM is required for optimal performance.
-- 12GB+ of GPU VRAM is strongly recommended for 1080p gameplay. Higher resolutions require more.
+- 12GB+ of VRAM is strongly recommended for 1080p gameplay. Higher resolutions require more.
 
 ## Installation
 

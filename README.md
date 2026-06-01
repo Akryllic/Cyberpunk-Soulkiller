@@ -130,7 +130,7 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 9. Repeat Steps 7-8 for **DLSS Override - Super Resolution Mode**.
 10. Under **Driver Settings**, Select the **Power Management Mode** drop down menu, and Select **Prefer maximum performance**.
 
-<img width="2462" height="1302" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Cyberpunk%20Settings.png)" />
+<img width="2462" height="1302" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Cyberpunk%20Settings.png" />
 
 ---
 
@@ -140,11 +140,11 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 
 [**DigitalVixen**](https://www.nexusmods.com/profile/DigitalVixen?gameId=3333) for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077.
 
-Halgari and the Wabbajack Team for their amazing platform that allows me to create and host lists like these.
-
 [**CD Projekt Red**](https://www.cdprojektred.com/en) For the original game and tools that make modding possible.
 
-**The Community** For the tools, resources, and collective knowledge that make projects like this possible.
+The Community For the tools, resources, and collective knowledge that make projects like this possible.
+
+Halgari and the Wabbajack Team for their contribution to the community that allows creators to create and host mod lists.
 
 ---
 

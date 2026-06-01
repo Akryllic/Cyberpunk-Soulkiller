@@ -111,7 +111,7 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 4. Enable **Automatic Shader Compliation** and set **System Utilization** as **Low**.
 5. Click **Apply**.
 
-<img width="1235" height="884" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Shader%20Cache.png" />
+<img width="1672" height="1127" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Shader%20Cache.png" />
 
 ---
 
@@ -129,6 +129,8 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 8. Under the **Use 3D app setting** tab, click **Apply**.
 9. Repeat Steps 7-8 for **DLSS Override - Super Resolution Mode**.
 10. Under **Driver Settings**, Select the **Power Management Mode** drop down menu, and Select **Prefer maximum performance**.
+
+<img width="2462" height="1302" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Cyberpunk%20Settings.png)" />
 
 ---
 

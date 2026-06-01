@@ -111,7 +111,7 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 4. Enable **Automatic Shader Compliation** and set **System Utilization** as **Low**.
 5. Click **Apply**.
 
-<img width="1672" height="1127" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Shader%20Cache.png" />
+<img width="1672" height="1127" alt="image" src="./resources/nvidia-shader-cache.png" />
 
 ---
 
@@ -130,7 +130,7 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 9. Repeat Steps 7-8 for **DLSS Override - Super Resolution Mode**.
 10. Under **Driver Settings**, Select the **Power Management Mode** drop down menu, and Select **Prefer maximum performance**.
 
-<img width="2462" height="1302" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Cyberpunk%20Settings.png" />
+<img width="2462" height="1302" alt="image" src="./resources/nvidia-program-settings.png" />
 
 ---
 
@@ -154,6 +154,6 @@ This work is licensed under a [Creative Commons Zero v1.0 Universal License](htt
 
 <p align="center">
   <a href="https://tenor.com/en-GB/view/the-boys-homelander-you-need-me-you-need-me-to-save-you-vojta-zachrance-natky-gif-27579265">
-    <img src="https://media.tenor.com/eCkL1zrLnc8AAAAC/the-boys-homelander.gif" alt="Homelander - You need me" width="400">
+    <img src="./resources/homelander.gif" alt="Homelander - You need me" width="400">
   </a>
 </p>

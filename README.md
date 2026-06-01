@@ -14,6 +14,8 @@ Soulkiller is a Wabbajack mod list featuring survival-focused modern gameplay an
 
 If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/cyberpunk-soulkiller-2).
 
+---
+
 ### System Requirements
 
 **DISCLAIMERS:**
@@ -24,10 +26,7 @@ If you're curious about the specific mods in the list, the full modlist can be v
 - 12GB+ of VRAM is strongly recommended for 1080p. Higher resolutions require more.
 - 150GB~ of available disk space; downloads folder can be deleted after installation.
 
-## Installation
-
-**⚠ WARNINGS ⚠:**
-- **Ensure your game is updated to the latest version before installation.**
+---
 
 ### Pre-Installation
 
@@ -63,6 +62,8 @@ RedMod is a free modding utility for Cyberpunk 2077 that needs to downloaded for
 
 If already installed there, reinstall to a different location such as `C:\Games`. 
 
+---
+
 #### Antiviruses
 
 Remove or disable any 3rd party antiviruses. As these applications will cause issues with your installation due to how Mod Organizer's Virtual File System works.
@@ -72,6 +73,8 @@ Add the modlist folder to your antivirus exclusion list
 Add the game executable to your antivirus exclusion list
 Add the redmod executable to your antivirus exclusion list
 
+---
+
 #### Pagefile Configuration
 
 Larger modlists require a significant amount of memory and running out of memory **will** result in crashes and other avoidable issues.
@@ -80,21 +83,16 @@ Larger modlists require a significant amount of memory and running out of memory
 
 To set up your pagefile:
 
-1. Press **Win Key + R**
-2. Type `sysdm.cpl ,3` and hit **ENTER**
-3. Navigate to **Performance** and click "Settings..."
-4. Click the **Advanced** tab at the top
-5. Under **Virtual Memory** click "Change..."
-6. Uncheck **Automatically manage** if it is checked
-7. Select your disk drive, ideally your fastest solid state drive
-8. Click the **Custom size:** button
-9. In the box next to **Initial Size (MB)** type `40960`
-10. In the box next to **Maximum Size (MB)** type `40960`
-11. Click the **Set** button
-12. Click **OK**
-13. Click **Apply**
-14. Click **OK**
-15. Restart your computer for the new pagefile to take effect
+1. Press **Win Key + R**, Type `sysdm.cpl ,3` and press **ENTER**
+2. Navigate to **Performance** and click "Settings..."
+3. Click the **Advanced** tab at the top
+4. Under **Virtual Memory** click "Change..."
+5. Uncheck **Automatically manage** if it is checked
+6. Select your NVMe (Gen 3 or higher)
+7. Select **Custom size:**
+8. In the input field for **Initial Size (MB)** type `40960`; In the input field for **Maximum Size (MB)** type `40960`
+9. Select **Set**, **Ok**, **Apply**, and **Ok**
+10. Restart your computer for the new pagefile to take effect
     
 <img width="430" height="603" alt="image" src="https://github.com/user-attachments/assets/dec2c742-0e23-468f-95e4-aef88d951be8" />
 
@@ -112,10 +110,9 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 
 <img width="1235" height="884" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Shader%20Cache.png" />
 
-
 ---
 
-### Credits and Thanks
+## Credits and Thanks
 
 [**ItzIvy**](https://www.nexusmods.com/profile/ItzIvy?gameId=1704) for helping with testing and compiling the mod list via Wabbajack
 
@@ -123,9 +120,9 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 
 Halgari and the Wabbajack Team for their amazing platform that allows me to create and host lists like these.
 
-[**CD Projekt Red**] - For the original game and tools that make modding possible.
+[**CD Projekt Red**](https://www.cdprojektred.com/en) For the original game and tools that make modding possible.
 
-[**The Community**] - For the tools, resources, and collective knowledge that make projects like this possible.
+**The Community** For the tools, resources, and collective knowledge that make projects like this possible.
 
 ---
 

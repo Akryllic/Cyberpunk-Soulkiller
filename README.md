@@ -66,12 +66,15 @@ If already installed there, reinstall to a different location such as `C:\Games`
 
 #### Antiviruses
 
-Remove or disable any 3rd party antiviruses. As these applications will cause issues with your installation due to how Mod Organizer's Virtual File System works.
+Remove or disable any 3rd party antiviruses.
+
+These applications will cause issues with your installation due to how Mod Organizer's Virtual File System operates.
 
 To prevent the game from having trouble loading scripts, please, do the following:
-Add the modlist folder to your antivirus exclusion list
-Add the game executable to your antivirus exclusion list
-Add the redmod executable to your antivirus exclusion list
+
+1. Add the modlist folder to your antivirus exclusion list
+2. Add the game executable to your antivirus exclusion list
+3. Add the redmod executable to your antivirus exclusion list
 
 ---
 

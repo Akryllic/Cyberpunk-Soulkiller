@@ -17,12 +17,12 @@ If you're curious about the specific mods in the list, the full modlist can be v
 ### System Requirements
 
 **DISCLAIMERS:**
-- Cyberpunk-Soulkiller only supports Windows 10/11 operating systems.
+- Cyberpunk: Soulkiller only supports Windows 10/11 operating systems.
 - HDD and external SSD installs are absolutely not supported. A NVMe Gen 3 or Newer is mandatory for installation.
 - Any remote PC / desktop services or apps are not supported.
 - At least 16GB of RAM is required for optimal performance.
-- 12GB+ of VRAM is strongly recommended for 1080p gameplay. Higher resolutions require more.
-- 150~ GB of available disk space; downloads folder can be deleted after installation.
+- 12GB+ of VRAM is strongly recommended for 1080p. Higher resolutions require more.
+- 150GB~ of available disk space; downloads folder can be deleted after installation.
 
 ## Installation
 
@@ -59,13 +59,13 @@ RedMod is a free modding utility for Cyberpunk 2077 that needs to downloaded for
 
 #### Storage and Installation
 
-**Important:** Do not install the game in `C:\Program Files` or `C:\Program Files (x86)` — this can cause permission issues.
+**Important:** Do not install the game in `C:\Program Files` or `C:\Program Files (x86)`.
 
-If already installed there, reinstall to a different location such as `C:\Games` or `D:\Games\`. This prevents compatibility issues with mod managers and virtual file systems.
+If already installed there, reinstall to a different location such as `C:\Games`. 
 
 #### Antiviruses
 
-Remove or disable any 3rd party antiviruses such as `Webroot` or `Bitdefender`. These programs can cause issues with your installation due to how mod managers' Virtual File Staging works.
+Remove or disable any 3rd party antiviruses. As these applications will cause issues with your installation due to how Mod Organizer's Virtual File System works.
 
 To prevent the game from having trouble loading scripts, please, do the following:
 Add the modlist folder to your antivirus exclusion list
@@ -74,9 +74,9 @@ Add the redmod executable to your antivirus exclusion list
 
 #### Pagefile Configuration
 
-Larger modlists require a significant amount of memory and running out of memory **will** result in crashes and other potential issues.
+Larger modlists require a significant amount of memory and running out of memory **will** result in crashes and other avoidable issues.
 
-**This step is NOT optional. Regardless of how much RAM or VRAM you have, please complete this step.**
+**This step is non-optional. Regardless of how much RAM or VRAM you have, please complete this step.**
 
 To set up your pagefile:
 
@@ -104,12 +104,11 @@ To set up your pagefile:
 
 If you have an NVIDIA GeForce Graphics Card, please do the following:
 
-1. Right-click on your desktop and select **NVIDIA Control Panel**
-2. Navigate and click on **Manage 3D settings** (2nd option from top)
-3. Scroll down in Global Settings until you see **Shader Cache Size**
-4. Double Click **Driver Default** next to Shader Cache Size and select **10 GB**
-5. Click **Apply** in the bottom right corner
-6. You may exit the application
+1. Open **NVIDIA App**
+2. Navigate to **Graphics**, **Global Settings**, and select the **Shader Cache** drop down menu.
+3. Set the **Cache Size** to 10GB
+4. Enable **Automatic Shader Compliation** and set **System Utilization** as **Low**.
+5. Click **Apply**
 
 <img width="1235" height="884" alt="image" src="https://github.com/user-attachments/assets/e6371ebe-2f73-41cd-bace-ae890dedf6c0" />
 

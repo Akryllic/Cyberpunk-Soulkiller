@@ -152,4 +152,8 @@ This work is licensed under a [Creative Commons Zero v1.0 Universal License](htt
 
 ---
 
-[![The Boys Homelander GIF](https://media.tenor.com/eCkL1zrLnc8AAAAC/the-boys-homelander.gif)](https://tenor.com/en-GB/view/the-boys-homelander-you-need-me-you-need-me-to-save-you-vojta-zachrance-natky-gif-27579265)
+<p align="center">
+  <a href="https://tenor.com/en-GB/view/the-boys-homelander-you-need-me-you-need-me-to-save-you-vojta-zachrance-natky-gif-27579265">
+    <img src="https://media.tenor.com/eCkL1zrLnc8AAAAC/the-boys-homelander.gif" alt="Homelander - You need me" width="400">
+  </a>
+</p>

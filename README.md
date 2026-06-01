@@ -72,9 +72,9 @@ These applications will cause issues with your installation due to how Mod Organ
 
 To prevent the game from having trouble loading scripts, please, do the following:
 
-1. Add the modlist folder to your antivirus exclusion list
-2. Add the game executable to your antivirus exclusion list
-3. Add the redmod executable to your antivirus exclusion list
+1. Add the modlist folder to your antivirus exclusion list.
+2. Add the game executable to your antivirus exclusion list.
+3. Add the redmod executable to your antivirus exclusion list.
 
 ---
 
@@ -82,20 +82,20 @@ To prevent the game from having trouble loading scripts, please, do the followin
 
 Larger modlists require a significant amount of memory and running out of memory **will** result in crashes and other avoidable issues.
 
-**This step is non-optional. Regardless of how much RAM or VRAM you have, please complete this step.**
+**This step is non-optional. Regardless of how much RAM or VRAM you have, please complete this step.**.
 
 To set up your pagefile:
 
-1. Press **Win Key + R**, Type `sysdm.cpl ,3` and press **ENTER**
-2. Navigate to **Performance** and click "Settings..."
-3. Click the **Advanced** tab at the top
-4. Under **Virtual Memory** click "Change..."
-5. Uncheck **Automatically manage** if it is checked
-6. Select your NVMe (Gen 3 or higher)
-7. Select **Custom size:**
-8. In the input field for **Initial Size (MB)** type `40960`; In the input field for **Maximum Size (MB)** type `40960`
-9. Select **Set**, **Ok**, **Apply**, and **Ok**
-10. Restart your computer for the new pagefile to take effect
+1. Press **Win Key + R**, Type `sysdm.cpl ,3` and press **ENTER**.
+2. Navigate to **Performance** and click "Settings...".
+3. Click the **Advanced** tab at the top.
+4. Under **Virtual Memory** click "Change...".
+5. Uncheck **Automatically manage** if it is checked.
+6. Select your NVMe (Gen 3 or higher).
+7. Select **Custom size:**.
+8. In the input field for **Initial Size (MB)** type `40960`; In the input field for **Maximum Size (MB)** type `40960`.
+9. Select **Set**, **Ok**, **Apply**, and **Ok**.
+10. Restart your computer for the new pagefile to take effect.
     
 <img width="430" height="603" alt="image" src="https://github.com/user-attachments/assets/dec2c742-0e23-468f-95e4-aef88d951be8" />
 
@@ -105,21 +105,38 @@ To set up your pagefile:
 
 If you have an NVIDIA GeForce Graphics Card, please do the following:
 
-1. Open **NVIDIA App**
+1. Open **NVIDIA App**.
 2. Navigate to **Graphics**, **Global Settings**, and select the **Shader Cache** drop down menu.
-3. Set the **Cache Size** to 10GB
+3. Set the **Cache Size** to 10GB.
 4. Enable **Automatic Shader Compliation** and set **System Utilization** as **Low**.
-5. Click **Apply**
+5. Click **Apply**.
 
 <img width="1235" height="884" alt="image" src="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/NVIDIA%20App%20Shader%20Cache.png" />
 
 ---
 
+#### Program Settings for Optimal Performance (NVIDIA 40/50+ Series Graphics Cards Only)
+
+If you have an NVIDIA GeForce Graphics Card, please do the following:
+
+1. Open **NVIDIA App**.
+2. Navigate to **Graphics**, **Program Settings**, and select **Cyberpunk 2077**.
+3. Make sure the **Game isn't optimised**; select **Revert** if it is.
+4. Under **Driver Settings**, Select the **DLSS Override - Model Presets** drop down menu.
+5. Under the **Custom** Tab, Select the following options: **Frame Generation - Preset B**, **Super Resolution - Preset L**, **Ray Reconstruction - Recommended**.
+6. Click **Apply**.
+7. Under **Driver Settings**, Select the **DLSS Override - Frame Generation Mode** drop down menu.
+8. Under the **Use 3D app setting** tab, click **Apply**.
+9. Repeat Steps 7-8 for **DLSS Override - Super Resolution Mode**.
+10. Under **Driver Settings**, Select the **Power Management Mode** drop down menu, and Select **Prefer maximum performance**.
+
+---
+
 ## Credits and Thanks
 
-[**ItzIvy**](https://www.nexusmods.com/profile/ItzIvy?gameId=1704) for helping with testing and compiling the mod list via Wabbajack
+[**ItzIvy**](https://www.nexusmods.com/profile/ItzIvy?gameId=1704) for helping with testing and compiling the mod list via Wabbajack.
 
-[**DigitalVixen**](https://www.nexusmods.com/profile/DigitalVixen?gameId=3333) for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077 
+[**DigitalVixen**](https://www.nexusmods.com/profile/DigitalVixen?gameId=3333) for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077.
 
 Halgari and the Wabbajack Team for their amazing platform that allows me to create and host lists like these.
 

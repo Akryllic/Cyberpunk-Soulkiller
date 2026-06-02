@@ -138,7 +138,7 @@ If you have an NVIDIA GeForce Graphics Card, please do the following:
 
 [**ItzIvy**](https://www.nexusmods.com/profile/ItzIvy?gameId=1704) for helping with testing and compiling the mod list via Wabbajack.
 
-[**DigitalVixen**](https://www.nexusmods.com/profile/DigitalVixen?gameId=3333) for the amazing mods and her continued support and shared knowledge of modding Cyberpunk 2077.
+[**DigitalVixen**](https://www.nexusmods.com/profile/DigitalVixen?gameId=3333) for the amazing mods (especially the unreleased/private stuff) and her continued support and shared knowledge of modding Cyberpunk 2077.
 
 [**CD Projekt Red**](https://www.cdprojektred.com/en) For the original game and tools that make modding possible.
 

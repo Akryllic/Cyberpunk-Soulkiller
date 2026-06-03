@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/CHANGELOG.md">Changelogs</a> |
+  <a href="https://github.com/Akryllic/Cyberpunk-Soulkiller/blob/main/Documents/FAQ">FAQ</a> |
   <a href="https://www.nexusmods.com/cyberpunk2077/mods/29614">Nexus</a> |
   <a href="https://discord.gg/GgkPMBMTrS">Discord</a>
 </p>
